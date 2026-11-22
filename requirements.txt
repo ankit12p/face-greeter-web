@@ -1,0 +1,8 @@
+streamlit
+streamlit-webrtc
+opencv-python-headless
+numpy
+Pillow
+setuptools<82
+face_recognition @ git+https://github.com/thetoby9944/face_recognition
+face_recognition_models @ git+https://github.com/ageitgey/face_recognition_models
